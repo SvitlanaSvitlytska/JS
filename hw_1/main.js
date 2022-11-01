@@ -6,7 +6,6 @@ let arr = [1, 10, -999, 123,  16]
 console.log(arr);
 let numb = 2.7;
 console.log(numb);
-
 const NUMBER =3.14;
 console.log(NUMBER);
 
