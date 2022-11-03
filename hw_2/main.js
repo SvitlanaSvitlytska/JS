@@ -40,7 +40,7 @@ let books={
     title:'Кульбабове вино',
     pageCount:300,
     genre:'фентезі',
-    autors:[
+    authors:[
         {
             name: 'Рей Бредбері',
             age: 80
@@ -53,7 +53,7 @@ let books1={
     title:'Колекціонер',
     pageCount:300,
     genre:'роман',
-    autors:[
+    authors:[
         {
             name: 'Джон Фаулз',
             age: 80
@@ -66,7 +66,7 @@ let books2={
     title:'Квіти для Елджернона',
     pageCount:300,
     genre:'науково-фантастичний твір-розповідь',
-    autors:[
+    auhtors:[
         {
             name: 'Деніел Кіз',
             age: 80
