@@ -1,4 +1,3 @@
-//масив    0    1     2         3
 let arr= [101,true,'hi', [11,22,54]];
 console.log(arr);
 
@@ -16,8 +15,5 @@ console.log(arr);
 //let innerArray = arr[3];
 console.log(arr[3]);
 console.log(arr[3][1]);
-
-//....... objects
-
 
 
