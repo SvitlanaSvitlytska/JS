@@ -88,8 +88,3 @@ console.log(typeof {});
 console.log(typeof []);
 //console.log(Array.isArray(arg:[]));//true
 //console.log(Array.isArray(arg:{}));// false
-
-
-
-
-
