@@ -72,21 +72,21 @@
 // }
 
 // якщо перевірка на тру або фолс: іф з елсом, якщо множинна перевірка, то - світч
-// switch ('color'){
-//     case 'green':
-//         console.log('go');
-//         break;// зупинка, без нього юзають якщо на два варіанти була одна і та сама дія
-//     case 'yellow':
-//         console.log('wait');
-//         break;
-//     case 'red':
-//         console.log('stop');
-//         break;
-//     default:
-//         console.log('??????');
-// }
+switch (''){
+    case 'green':
+        console.log('go');
+        break;// зупинка, без нього юзають якщо на два варіанти була одна і та сама дія
+    case 'yellow':
+        console.log('wait');
+        break;
+    case 'red':
+        console.log('stop');
+        break;
+    default:
+        console.log('??????');
+}
 
-let xxx = prompt() || 'default value'; // якщо людина нічого не вписала(тобто прирівнюється до
-// фолз), то ту штуку треба замінити на якесь значення
-console.log(xxx);
+// let xxx = prompt() || 'default value'; // якщо людина нічого не вписала(тобто прирівнюється до
+// // фолз), то ту штуку треба замінити на якесь значення
+// console.log(xxx);
 
